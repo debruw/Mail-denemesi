@@ -1,0 +1,9 @@
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\mail\mail\bin\Debug\mail.exe.config
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\mail\mail\bin\Debug\mail.exe
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\mail\mail\bin\Debug\mail.pdb
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\mail\mail\obj\Debug\mail.csprojResolveAssemblyReference.cache
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\mail\mail\obj\Debug\mail.Form1.resources
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\mail\mail\obj\Debug\mail.Properties.Resources.resources
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\mail\mail\obj\Debug\mail.csproj.GenerateResource.Cache
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\mail\mail\obj\Debug\mail.exe
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\mail\mail\obj\Debug\mail.pdb
